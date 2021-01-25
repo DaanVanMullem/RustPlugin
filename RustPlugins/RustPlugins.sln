@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RustPlugins", "RustPlugins\RustPlugins.csproj", "{6686E9BC-3EE3-4A96-A22A-37DDF9B1C86D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6686E9BC-3EE3-4A96-A22A-37DDF9B1C86D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6686E9BC-3EE3-4A96-A22A-37DDF9B1C86D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6686E9BC-3EE3-4A96-A22A-37DDF9B1C86D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6686E9BC-3EE3-4A96-A22A-37DDF9B1C86D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC4B781C-6FD9-4E0A-A83A-B71AE79E379E}
+	EndGlobalSection
+EndGlobal
